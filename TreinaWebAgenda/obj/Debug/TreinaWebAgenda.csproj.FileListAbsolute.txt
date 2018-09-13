@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\bin\Debug\TreinaWebAgenda.exe.config
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\bin\Debug\TreinaWebAgenda.exe
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\bin\Debug\TreinaWebAgenda.pdb
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.frmAgendaContatos.resources
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.Properties.Resources.resources
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.csproj.GenerateResource.Cache
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.exe
+C:\Users\pc\source\repos\TreinaWebAgenda\TreinaWebAgenda\obj\Debug\TreinaWebAgenda.pdb
